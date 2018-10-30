@@ -1,0 +1,25 @@
+{
+  "name": "react-tetris-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://P3trovichUA@bitbucket.org/P3trovichUA/react-tetris-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/P3trovichUA/react-tetris-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}
